@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NuTm Blog
 
 You can use the [editor on GitHub](https://github.com/nutm/nutm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -31,4 +31,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Author
 
-*NuTm*
+[*NuTm*](https://github.com/nutm)
