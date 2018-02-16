@@ -31,4 +31,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Author
 
-*NuTm*
+[*NuTm*](https://github.com/nutm)
